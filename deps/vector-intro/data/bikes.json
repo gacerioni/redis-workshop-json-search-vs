@@ -96,4 +96,28 @@
             "material": "alumínio",
             "weight": "10.0"
         },
-        "description": "Se você tem dificuldades com dedos rígidos ou pescoço ou costas travadas após alguns minutos na estrada, esta bicicleta leve de alumínio alivia esses problemas e permite que você desfrute da pedalada. Desde os manetes ergonômicos até a posição do assento com suporte lombar, a Roll Low-Entry oferece um conforto incrível. O tubo de assento inclinado para trás facilita a estabilidade, permitindo que você coloque um pé no chão para se equilibrar ao parar, e o quadro de entrada baixa torna acessível para todos os níveis de habilidade e mobilidade. O selim é muito macio, com uma parte traseira larga
+        "description": "Se você tem dificuldades com dedos rígidos ou pescoço ou costas travadas após alguns minutos na estrada, esta bicicleta leve de alumínio alivia esses problemas e permite que você desfrute da pedalada. Desde os manetes ergonômicos até a posição do assento com suporte lombar, a Roll Low-Entry oferece um conforto incrível. O tubo de assento inclinado para trás facilita a estabilidade, permitindo que você coloque um pé no chão para se equilibrar ao parar, e o quadro de entrada baixa torna acessível para todos os níveis de habilidade e mobilidade. O selim é muito macio, com uma parte traseira larga para apoiar suas articulações do quadril e um recorte no centro para redistribuir a pressão. Os freios de aro oferecem um controle de frenagem satisfatório, e os pneus largos proporcionam uma pedalada suave e estável em estradas pavimentadas e cascalho. Os suportes para bagageiro e para-lama facilitam a configuração da Roll Low-Entry como sua bicicleta de comutação preferida, e o guidão estilo BMX oferece espaço para montar uma lanterna, campainha ou suporte para telefone."
+    },
+    {
+        "model": "Summit",
+        "brand": "nHill",
+        "price": 1200,
+        "type": "Bicicleta de Montanha",
+        "specs": {
+            "material": "liga",
+            "weight": "11.3"
+        },
+        "description": "Esta bicicleta de montanha econômica da nHill tem um bom desempenho tanto em ciclovias quanto em trilhas. O garfo com 100mm de curso absorve terrenos acidentados. Pneus largos Kenda Booster oferecem aderência em curvas e trilhas molhadas. A transmissão Shimano Tourney oferece engrenagens suficientes para encontrar um ritmo confortável para subir, e os freios a disco hidráulicos Tektro freiam suavemente. Se você quer uma bicicleta acessível que pode levar para o trabalho, mas também levar para trilhas nos fins de semana, ou está apenas atrás de uma pedalada estável e confortável na ciclovia, a Summit oferece um bom custo-benefício."
+    },
+    {
+        "model": "ThrillCycle",
+        "brand": "BikeShind",
+        "price": 815,
+        "type": "Bicicletas de Comutação",
+        "specs": {
+            "material": "liga",
+            "weight": "12.7"
+        },
+        "description": "Uma bicicleta artística, inspirada no estilo retrô, que é tão funcional quanto bonita: O quadro de aço da ThrillCycle oferece uma pedalada suave. Uma transmissão de 9 velocidades tem marchas suficientes para deslizar pela cidade, mas não sugerimos levá-la para as montanhas. Os para-lamas protegem contra lama, e uma cesta traseira permite transportar mantimentos, flores e livros. A ThrillCycle vem com uma garantia limitada vitalícia, então essa pequena durará muito além da formatura."
+    }
+]
