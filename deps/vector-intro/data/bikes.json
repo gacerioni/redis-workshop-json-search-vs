@@ -1,0 +1,99 @@
+[
+    {
+        "model": "Jigger",
+        "brand": "Velorim",
+        "price": 270,
+        "type": "Bicicletas Infantis",
+        "specs": {
+            "material": "alumínio",
+            "weight": "10"
+        },
+        "description": "Pequena e poderosa, a Jigger é a melhor pedalada para os menores ciclistas! Esta é a menor bicicleta infantil com pedal no mercado disponível sem freio de contrapedal, a Jigger é a escolha ideal para o raro pequeno tenaz pronto para partir. Dizemos raro porque esta pequena bicicleta não é ideal para um iniciante nervoso, mas é um verdadeiro galope para um verdadeiro velocista. A Jigger é uma bicicleta infantil leve de 12 polegadas e atenderá à necessidade de velocidade do seu pequeno. É uma bicicleta de uma única velocidade que torna o aprendizado a pedalar simples e intuitivo. Ela até tem uma alça na parte inferior do selim para que você possa ajudar seu filho facilmente durante o treinamento! A Jigger está entre as bicicletas infantis mais leves do planeta. É projetada para que crianças de 2 a 3 anos se ajustem confortavelmente em uma posição de pilotagem moldada que permite uma pedalada eficiente, manuseio equilibrado e agilidade. O design do quadro e as engrenagens da Jigger trabalham juntos para que seu jovem ciclista possa se levantar do selim, parar rapidamente, acelerar em trilhas e pistas de bombeamento. A Jigger é incrível em terra ou asfalto. Seu pequeno voará pela ciclovia em pouco tempo. A Jigger será enviada com um freio de contrapedal. Um kit de roda livre é fornecido sem custo."
+    },
+    {
+        "model": "Hillcraft",
+        "brand": "Bicyk",
+        "price": 1200,
+        "type": "Bicicletas de Montanha Infantis",
+        "specs": {
+            "material": "carbono",
+            "weight": "11"
+        },
+        "description": "Crianças querem pedalar com o mínimo de peso possível. Especialmente em uma subida! Eles podem estar na idade em que uma bicicleta com roda de 27,5\" é simplesmente muito desajeitada ao sair de uma bicicleta de 24\". A Hillcraft 26 é exatamente a solução que eles precisam! Imagine 120mm de curso. Boost dianteiro/traseiro. Você não tem NADA para ajustar porque é fácil de montar diretamente da caixa. A Hillcraft 26 é uma máquina eficiente de trilhas. Subir ou descer não importa - domine as trilhas indo tanto para baixo quanto para cima com esta incrível bicicleta. O nome Monarch vem da trilha Monarch no Colorado, onde adoramos andar. É uma trilha altamente técnica, íngreme e rochosa, mas a descida é tão gratificante. Não ande na trilha com uma hardtail! É muito mais divertido na Hillcraft full suspension! Pegue sua trilha local com a Hillcraft Monarch 26 para chegar aonde você quer ir."
+    },
+    {
+        "model": "Chook air 5",
+        "brand": "Nord",
+        "price": 815,
+        "type": "Bicicletas de Montanha Infantis",
+        "specs": {
+            "material": "liga",
+            "weight": "9.1"
+        },
+        "description": "A Chook Air 5 oferece às crianças com seis anos ou mais uma bicicleta de montanha durável e superleve para sua primeira experiência em trilhas e cruzeiros fáceis através de florestas e campos. O tubo superior mais baixo facilita montar e desmontar em qualquer situação, proporcionando mais segurança nas trilhas. A Chook Air 5 é a introdução perfeita ao mountain biking."
+    },
+    {
+        "model": "Eva 291",
+        "brand": "Eva",
+        "price": 3400,
+        "type": "Bicicletas de Montanha",
+        "specs": {
+            "material": "carbono",
+            "weight": "9.1"
+        },
+        "description": "A empresa irmã da Nord, a Eva foi lançada em 2005 como a primeira e única marca de bicicletas dedicada às mulheres. Projetadas por mulheres para mulheres, todas as bicicletas Eva são otimizadas para o físico feminino usando análises de um banco de dados de métricas corporais. Se você gosta de 29ers, experimente a Eva 291. É uma bicicleta totalmente nova para 2022. Esta bicicleta de suspensão total para cross-country foi projetada para velocidade. A 291 tem 100mm de curso dianteiro e traseiro, um quadro superleve de alumínio e rodas de 29 polegadas de rolagem rápida. Uau!"
+    },
+    {
+        "model": "Kahuna",
+        "brand": "Noka Bikes",
+        "price": 3200,
+        "type": "Bicicletas de Montanha",
+        "specs": {
+            "material": "liga",
+            "weight": "9.8"
+        },
+        "description": "Seja você querendo experimentar corridas de XC ou procurando uma bicicleta de trilha animada que seja tão inspiradora nas subidas quanto é no terreno acidentado, a Wilder é uma bicicleta incrível construída especificamente para mulheres baixas. Tanto os quadros quanto os componentes foram ajustados para incluir um selim feminino, guidões diferentes e uma paleta de cores única."
+    },
+    {
+        "model": "XBN 2.1 Alloy",
+        "brand": "Breakout",
+        "price": 810,
+        "type": "Bicicletas de Estrada",
+        "specs": {
+            "material": "liga",
+            "weight": "7.2"
+        },
+        "description": "A XBN 2.1 Alloy é nossa bicicleta de estrada de nível básico – mas isso não significa que seja uma máquina básica. Com um quadro de alumínio soldado internamente, um garfo totalmente em carbono e as engrenagens Claris de mudança suave da Shimano, esta é uma bicicleta que não custa uma fortuna e oferece o desempenho desejado. O quadro de liga 6061 é triplo rebitado, o que garante um peso mais leve e uma pedalada mais suave. E é confortável com estais de assento rebaixados e o garfo de carbono. O conjunto de correntes de 50-34 dentes e o cassete de 11-32 dentes oferecem uma marcha leve para as subidas e os pneus Vittoria Zaffiro de alta qualidade equilibram aderência, atrito de rolagem e proteção contra furos ao descer a outra parte."
+    },
+    {
+        "model": "WattBike",
+        "brand": "ScramBikes",
+        "price": 2300,
+        "type": "Bicicletas Elétricas",
+        "specs": {
+            "material": "liga",
+            "weight": "15"
+        },
+        "description": "A WattBike é a melhor e-bike para pessoas que ainda se sentem jovens de coração. Possui um motor de cubo com engrenagem Bafang de 500 watts que pode atingir 20 milhas por hora tanto em subidas íngremes quanto em ruas da cidade. A bateria de íon de lítio, que atinge quase 40 milhas por carga, tem um formato leve, facilitando o uso por idosos. Ela vem totalmente montada (sem instruções complicadas!) e inclui um capacete resistente sem custo adicional. O selim Plush amacia com o uso. O canote de selim incluído, no entanto, é facilmente ajustável e adiciona à classificação fantástica desta bicicleta para idosos, assim como os freios a disco hidráulicos da Tektro."
+    },
+    {
+        "model": "Soothe Electric bike",
+        "brand": "Peaknetic",
+        "price": 1950,
+        "type": "Bicicletas Elétricas",
+        "specs": {
+            "material": "liga",
+            "weight": "14.7"
+        },
+        "description": "A Soothe é uma bicicleta elétrica para o dia a dia, dos criadores das bicicletas Exercycle, que transmite estilo enquanto você se desloca pela cidade. A Soothe faz jus ao seu nome, mantendo sua postura ereta e relaxada para a viagem à frente, evitando dores e desconfortos de pedalar. Inclui um quadro de entrada baixa, nosso assento de espuma com memória, amortecedores resistentes a solavancos e acelerador de polegar convenientemente posicionado."
+    },
+    {
+        "model": "Secto",
+        "brand": "Peaknetic",
+        "price": 430,
+        "type": "Bicicletas de Comutação",
+        "specs": {
+            "material": "alumínio",
+            "weight": "10.0"
+        },
+        "description": "Se você tem dificuldades com dedos rígidos ou pescoço ou costas travadas após alguns minutos na estrada, esta bicicleta leve de alumínio alivia esses problemas e permite que você desfrute da pedalada. Desde os manetes ergonômicos até a posição do assento com suporte lombar, a Roll Low-Entry oferece um conforto incrível. O tubo de assento inclinado para trás facilita a estabilidade, permitindo que você coloque um pé no chão para se equilibrar ao parar, e o quadro de entrada baixa torna acessível para todos os níveis de habilidade e mobilidade. O selim é muito macio, com uma parte traseira larga
