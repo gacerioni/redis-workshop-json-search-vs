@@ -1,123 +1,398 @@
 [
-    {
-        "model": "Jigger",
-        "brand": "Velorim",
-        "price": 270,
-        "type": "Bicicletas Infantis",
-        "specs": {
-            "material": "alumínio",
-            "weight": "10"
-        },
-        "description": "Pequena e poderosa, a Jigger é a melhor pedalada para os menores ciclistas! Esta é a menor bicicleta infantil com pedal no mercado disponível sem freio de contrapedal, a Jigger é a escolha ideal para o raro pequeno tenaz pronto para partir. Dizemos raro porque esta pequena bicicleta não é ideal para um iniciante nervoso, mas é um verdadeiro galope para um verdadeiro velocista. A Jigger é uma bicicleta infantil leve de 12 polegadas e atenderá à necessidade de velocidade do seu pequeno. É uma bicicleta de uma única velocidade que torna o aprendizado a pedalar simples e intuitivo. Ela até tem uma alça na parte inferior do selim para que você possa ajudar seu filho facilmente durante o treinamento! A Jigger está entre as bicicletas infantis mais leves do planeta. É projetada para que crianças de 2 a 3 anos se ajustem confortavelmente em uma posição de pilotagem moldada que permite uma pedalada eficiente, manuseio equilibrado e agilidade. O design do quadro e as engrenagens da Jigger trabalham juntos para que seu jovem ciclista possa se levantar do selim, parar rapidamente, acelerar em trilhas e pistas de bombeamento. A Jigger é incrível em terra ou asfalto. Seu pequeno voará pela ciclovia em pouco tempo. A Jigger será enviada com um freio de contrapedal. Um kit de roda livre é fornecido sem custo."
+  {
+    "model": "Jigger",
+    "brand": "Velorim",
+    "price": 270,
+    "type": "Bicicletas Infantis",
+    "specs": {
+      "material": "alumínio",
+      "weight": "10"
     },
-    {
-        "model": "Hillcraft",
-        "brand": "Bicyk",
-        "price": 1200,
-        "type": "Bicicletas de Montanha Infantis",
-        "specs": {
-            "material": "carbono",
-            "weight": "11"
-        },
-        "description": "Crianças querem pedalar com o mínimo de peso possível. Especialmente em uma subida! Eles podem estar na idade em que uma bicicleta com roda de 27,5\" é simplesmente muito desajeitada ao sair de uma bicicleta de 24\". A Hillcraft 26 é exatamente a solução que eles precisam! Imagine 120mm de curso. Boost dianteiro/traseiro. Você não tem NADA para ajustar porque é fácil de montar diretamente da caixa. A Hillcraft 26 é uma máquina eficiente de trilhas. Subir ou descer não importa - domine as trilhas indo tanto para baixo quanto para cima com esta incrível bicicleta. O nome Monarch vem da trilha Monarch no Colorado, onde adoramos andar. É uma trilha altamente técnica, íngreme e rochosa, mas a descida é tão gratificante. Não ande na trilha com uma hardtail! É muito mais divertido na Hillcraft full suspension! Pegue sua trilha local com a Hillcraft Monarch 26 para chegar aonde você quer ir."
+    "description": "Pequena e poderosa, a Jigger é a melhor pedalada para os menores ciclistas! Esta é a menor bicicleta infantil com pedal no mercado disponível sem freio de contrapedal, a Jigger é a escolha ideal para o raro pequeno tenaz pronto para partir. Dizemos raro porque esta pequena bicicleta não é ideal para um iniciante nervoso, mas é um verdadeiro galope para um verdadeiro velocista. A Jigger é uma bicicleta infantil leve de 12 polegadas e atenderá à necessidade de velocidade do seu pequeno. É uma bicicleta de uma única velocidade que torna o aprendizado a pedalar simples e intuitivo. Ela até tem uma alça na parte inferior do selim para que você possa ajudar seu filho facilmente durante o treinamento! A Jigger está entre as bicicletas infantis mais leves do planeta. É projetada para que crianças de 2 a 3 anos se ajustem confortavelmente em uma posição de pilotagem moldada que permite uma pedalada eficiente, manuseio equilibrado e agilidade. O design do quadro e as engrenagens da Jigger trabalham juntos para que seu jovem ciclista possa se levantar do selim, parar rapidamente, acelerar em trilhas e pistas de bombeamento. A Jigger é incrível em terra ou asfalto. Seu pequeno voará pela ciclovia em pouco tempo. A Jigger será enviada com um freio de contrapedal. Um kit de roda livre é fornecido sem custo."
+  },
+  {
+    "model": "Hillcraft",
+    "brand": "Bicyk",
+    "price": 1200,
+    "type": "Bicicletas de Montanha Infantis",
+    "specs": {
+      "material": "carbono",
+      "weight": "11"
     },
-    {
-        "model": "Chook air 5",
-        "brand": "Nord",
-        "price": 815,
-        "type": "Bicicletas de Montanha Infantis",
-        "specs": {
-            "material": "liga",
-            "weight": "9.1"
-        },
-        "description": "A Chook Air 5 oferece às crianças com seis anos ou mais uma bicicleta de montanha durável e superleve para sua primeira experiência em trilhas e cruzeiros fáceis através de florestas e campos. O tubo superior mais baixo facilita montar e desmontar em qualquer situação, proporcionando mais segurança nas trilhas. A Chook Air 5 é a introdução perfeita ao mountain biking."
+    "description": "Crianças querem pedalar com o mínimo de peso possível. Especialmente em uma subida! Eles podem estar na idade em que uma bicicleta com roda de 27,5\" é simplesmente muito desajeitada ao sair de uma bicicleta de 24\". A Hillcraft 26 é exatamente a solução que eles precisam! Imagine 120mm de curso. Boost dianteiro/traseiro. Você não tem NADA para ajustar porque é fácil de montar diretamente da caixa. A Hillcraft 26 é uma máquina eficiente de trilhas. Subir ou descer não importa - domine as trilhas indo tanto para baixo quanto para cima com esta incrível bicicleta. O nome Monarch vem da trilha Monarch no Colorado, onde adoramos andar. É uma trilha altamente técnica, íngreme e rochosa, mas a descida é tão gratificante. Não ande na trilha com uma hardtail! É muito mais divertido na Hillcraft full suspension! Pegue sua trilha local com a Hillcraft Monarch 26 para chegar aonde você quer ir."
+  },
+  {
+    "model": "Chook air 5",
+    "brand": "Nord",
+    "price": 815,
+    "type": "Bicicletas de Montanha Infantis",
+    "specs": {
+      "material": "liga",
+      "weight": "9.1"
     },
-    {
-        "model": "Eva 291",
-        "brand": "Eva",
-        "price": 3400,
-        "type": "Bicicletas de Montanha",
-        "specs": {
-            "material": "carbono",
-            "weight": "9.1"
-        },
-        "description": "A empresa irmã da Nord, a Eva foi lançada em 2005 como a primeira e única marca de bicicletas dedicada às mulheres. Projetadas por mulheres para mulheres, todas as bicicletas Eva são otimizadas para o físico feminino usando análises de um banco de dados de métricas corporais. Se você gosta de 29ers, experimente a Eva 291. É uma bicicleta totalmente nova para 2022. Esta bicicleta de suspensão total para cross-country foi projetada para velocidade. A 291 tem 100mm de curso dianteiro e traseiro, um quadro superleve de alumínio e rodas de 29 polegadas de rolagem rápida. Uau!"
+    "description": "A Chook Air 5 oferece às crianças com seis anos ou mais uma bicicleta de montanha durável e superleve para sua primeira experiência em trilhas e cruzeiros fáceis através de florestas e campos. O tubo superior mais baixo facilita montar e desmontar em qualquer situação, proporcionando mais segurança nas trilhas. A Chook Air 5 é a introdução perfeita ao mountain biking."
+  },
+  {
+    "model": "Eva 291",
+    "brand": "Eva",
+    "price": 3400,
+    "type": "Bicicletas de Montanha",
+    "specs": {
+      "material": "carbono",
+      "weight": "9.1"
     },
-    {
-        "model": "Kahuna",
-        "brand": "Noka Bikes",
-        "price": 3200,
-        "type": "Bicicletas de Montanha",
-        "specs": {
-            "material": "liga",
-            "weight": "9.8"
-        },
-        "description": "Seja você querendo experimentar corridas de XC ou procurando uma bicicleta de trilha animada que seja tão inspiradora nas subidas quanto é no terreno acidentado, a Wilder é uma bicicleta incrível construída especificamente para mulheres baixas. Tanto os quadros quanto os componentes foram ajustados para incluir um selim feminino, guidões diferentes e uma paleta de cores única."
+    "description": "A empresa irmã da Nord, a Eva foi lançada em 2005 como a primeira e única marca de bicicletas dedicada às mulheres. Projetadas por mulheres para mulheres, todas as bicicletas Eva são otimizadas para o físico feminino usando análises de um banco de dados de métricas corporais. Se você gosta de 29ers, experimente a Eva 291. É uma bicicleta totalmente nova para 2022. Esta bicicleta de suspensão total para cross-country foi projetada para velocidade. A 291 tem 100mm de curso dianteiro e traseiro, um quadro superleve de alumínio e rodas de 29 polegadas de rolagem rápida. Uau!"
+  },
+  {
+    "model": "Kahuna",
+    "brand": "Noka Bikes",
+    "price": 3200,
+    "type": "Bicicletas de Montanha",
+    "specs": {
+      "material": "liga",
+      "weight": "9.8"
     },
-    {
-        "model": "XBN 2.1 Alloy",
-        "brand": "Breakout",
-        "price": 810,
-        "type": "Bicicletas de Estrada",
-        "specs": {
-            "material": "liga",
-            "weight": "7.2"
-        },
-        "description": "A XBN 2.1 Alloy é nossa bicicleta de estrada de nível básico – mas isso não significa que seja uma máquina básica. Com um quadro de alumínio soldado internamente, um garfo totalmente em carbono e as engrenagens Claris de mudança suave da Shimano, esta é uma bicicleta que não custa uma fortuna e oferece o desempenho desejado. O quadro de liga 6061 é triplo rebitado, o que garante um peso mais leve e uma pedalada mais suave. E é confortável com estais de assento rebaixados e o garfo de carbono. O conjunto de correntes de 50-34 dentes e o cassete de 11-32 dentes oferecem uma marcha leve para as subidas e os pneus Vittoria Zaffiro de alta qualidade equilibram aderência, atrito de rolagem e proteção contra furos ao descer a outra parte."
+    "description": "Seja você querendo experimentar corridas de XC ou procurando uma bicicleta de trilha animada que seja tão inspiradora nas subidas quanto é no terreno acidentado, a Wilder é uma bicicleta incrível construída especificamente para mulheres baixas. Tanto os quadros quanto os componentes foram ajustados para incluir um selim feminino, guidões diferentes e uma paleta de cores única."
+  },
+  {
+    "model": "XBN 2.1 Alloy",
+    "brand": "Breakout",
+    "price": 810,
+    "type": "Bicicletas de Estrada",
+    "specs": {
+      "material": "liga",
+      "weight": "7.2"
     },
-    {
-        "model": "WattBike",
-        "brand": "ScramBikes",
-        "price": 2300,
-        "type": "Bicicletas Elétricas",
-        "specs": {
-            "material": "liga",
-            "weight": "15"
-        },
-        "description": "A WattBike é a melhor e-bike para pessoas que ainda se sentem jovens de coração. Possui um motor de cubo com engrenagem Bafang de 500 watts que pode atingir 20 milhas por hora tanto em subidas íngremes quanto em ruas da cidade. A bateria de íon de lítio, que atinge quase 40 milhas por carga, tem um formato leve, facilitando o uso por idosos. Ela vem totalmente montada (sem instruções complicadas!) e inclui um capacete resistente sem custo adicional. O selim Plush amacia com o uso. O canote de selim incluído, no entanto, é facilmente ajustável e adiciona à classificação fantástica desta bicicleta para idosos, assim como os freios a disco hidráulicos da Tektro."
+    "description": "A XBN 2.1 Alloy é nossa bicicleta de estrada de nível básico – mas isso não significa que seja uma máquina básica. Com um quadro de alumínio soldado internamente, um garfo totalmente em carbono e as engrenagens Claris de mudança suave da Shimano, esta é uma bicicleta que não custa uma fortuna e oferece o desempenho desejado. O quadro de liga 6061 é triplo rebitado, o que garante um peso mais leve e uma pedalada mais suave. E é confortável com estais de assento rebaixados e o garfo de carbono. O conjunto de correntes de 50-34 dentes e o cassete de 11-32 dentes oferecem uma marcha leve para as subidas e os pneus Vittoria Zaffiro de alta qualidade equilibram aderência, atrito de rolagem e proteção contra furos ao descer a outra parte."
+  },
+  {
+    "model": "WattBike",
+    "brand": "ScramBikes",
+    "price": 2300,
+    "type": "Bicicletas Elétricas",
+    "specs": {
+      "material": "liga",
+      "weight": "15"
     },
-    {
-        "model": "Soothe Electric bike",
-        "brand": "Peaknetic",
-        "price": 1950,
-        "type": "Bicicletas Elétricas",
-        "specs": {
-            "material": "liga",
-            "weight": "14.7"
-        },
-        "description": "A Soothe é uma bicicleta elétrica para o dia a dia, dos criadores das bicicletas Exercycle, que transmite estilo enquanto você se desloca pela cidade. A Soothe faz jus ao seu nome, mantendo sua postura ereta e relaxada para a viagem à frente, evitando dores e desconfortos de pedalar. Inclui um quadro de entrada baixa, nosso assento de espuma com memória, amortecedores resistentes a solavancos e acelerador de polegar convenientemente posicionado."
+    "description": "A WattBike é a melhor e-bike para pessoas que ainda se sentem jovens de coração. Possui um motor de cubo com engrenagem Bafang de 500 watts que pode atingir 20 milhas por hora tanto em subidas íngremes quanto em ruas da cidade. A bateria de íon de lítio, que atinge quase 40 milhas por carga, tem um formato leve, facilitando o uso por idosos. Ela vem totalmente montada (sem instruções complicadas!) e inclui um capacete resistente sem custo adicional. O selim Plush amacia com o uso. O canote de selim incluído, no entanto, é facilmente ajustável e adiciona à classificação fantástica desta bicicleta para idosos, assim como os freios a disco hidráulicos da Tektro."
+  },
+  {
+    "model": "Soothe Electric bike",
+    "brand": "Peaknetic",
+    "price": 1950,
+    "type": "Bicicletas Elétricas",
+    "specs": {
+      "material": "liga",
+      "weight": "14.7"
     },
-    {
-        "model": "Secto",
-        "brand": "Peaknetic",
-        "price": 430,
-        "type": "Bicicletas de Comutação",
-        "specs": {
-            "material": "alumínio",
-            "weight": "10.0"
-        },
-        "description": "Se você tem dificuldades com dedos rígidos ou pescoço ou costas travadas após alguns minutos na estrada, esta bicicleta leve de alumínio alivia esses problemas e permite que você desfrute da pedalada. Desde os manetes ergonômicos até a posição do assento com suporte lombar, a Roll Low-Entry oferece um conforto incrível. O tubo de assento inclinado para trás facilita a estabilidade, permitindo que você coloque um pé no chão para se equilibrar ao parar, e o quadro de entrada baixa torna acessível para todos os níveis de habilidade e mobilidade. O selim é muito macio, com uma parte traseira larga para apoiar suas articulações do quadril e um recorte no centro para redistribuir a pressão. Os freios de aro oferecem um controle de frenagem satisfatório, e os pneus largos proporcionam uma pedalada suave e estável em estradas pavimentadas e cascalho. Os suportes para bagageiro e para-lama facilitam a configuração da Roll Low-Entry como sua bicicleta de comutação preferida, e o guidão estilo BMX oferece espaço para montar uma lanterna, campainha ou suporte para telefone."
+    "description": "A Soothe é uma bicicleta elétrica para o dia a dia, dos criadores das bicicletas Exercycle, que transmite estilo enquanto você se desloca pela cidade. A Soothe faz jus ao seu nome, mantendo sua postura ereta e relaxada para a viagem à frente, evitando dores e desconfortos de pedalar. Inclui um quadro de entrada baixa, nosso assento de espuma com memória, amortecedores resistentes a solavancos e acelerador de polegar convenientemente posicionado."
+  },
+  {
+    "model": "Secto",
+    "brand": "Peaknetic",
+    "price": 430,
+    "type": "Bicicletas de Comutação",
+    "specs": {
+      "material": "alumínio",
+      "weight": "10.0"
     },
-    {
-        "model": "Summit",
-        "brand": "nHill",
-        "price": 1200,
-        "type": "Bicicleta de Montanha",
-        "specs": {
-            "material": "liga",
-            "weight": "11.3"
-        },
-        "description": "Esta bicicleta de montanha econômica da nHill tem um bom desempenho tanto em ciclovias quanto em trilhas. O garfo com 100mm de curso absorve terrenos acidentados. Pneus largos Kenda Booster oferecem aderência em curvas e trilhas molhadas. A transmissão Shimano Tourney oferece engrenagens suficientes para encontrar um ritmo confortável para subir, e os freios a disco hidráulicos Tektro freiam suavemente. Se você quer uma bicicleta acessível que pode levar para o trabalho, mas também levar para trilhas nos fins de semana, ou está apenas atrás de uma pedalada estável e confortável na ciclovia, a Summit oferece um bom custo-benefício."
+    "description": "Se você tem dificuldades com dedos rígidos ou pescoço ou costas travadas após alguns minutos na estrada, esta bicicleta leve de alumínio alivia esses problemas e permite que você desfrute da pedalada. Desde os manetes ergonômicos até a posição do assento com suporte lombar, a Roll Low-Entry oferece um conforto incrível. O tubo de assento inclinado para trás facilita a estabilidade, permitindo que você coloque um pé no chão para se equilibrar ao parar, e o quadro de entrada baixa torna acessível para todos os níveis de habilidade e mobilidade. O selim é muito macio, com uma parte traseira larga para apoiar suas articulações do quadril e um recorte no centro para redistribuir a pressão. Os freios de aro oferecem um controle de frenagem satisfatório, e os pneus largos proporcionam uma pedalada suave e estável em estradas pavimentadas e cascalho. Os suportes para bagageiro e para-lama facilitam a configuração da Roll Low-Entry como sua bicicleta de comutação preferida, e o guidão estilo BMX oferece espaço para montar uma lanterna, campainha ou suporte para telefone."
+  },
+  {
+    "model": "Summit",
+    "brand": "nHill",
+    "price": 1200,
+    "type": "Bicicleta de Montanha",
+    "specs": {
+      "material": "liga",
+      "weight": "11.3"
     },
-    {
-        "model": "ThrillCycle",
-        "brand": "BikeShind",
-        "price": 815,
-        "type": "Bicicletas de Comutação",
-        "specs": {
-            "material": "liga",
-            "weight": "12.7"
-        },
-        "description": "Uma bicicleta artística, inspirada no estilo retrô, que é tão funcional quanto bonita: O quadro de aço da ThrillCycle oferece uma pedalada suave. Uma transmissão de 9 velocidades tem marchas suficientes para deslizar pela cidade, mas não sugerimos levá-la para as montanhas. Os para-lamas protegem contra lama, e uma cesta traseira permite transportar mantimentos, flores e livros. A ThrillCycle vem com uma garantia limitada vitalícia, então essa pequena durará muito além da formatura."
-    }
+    "description": "Esta bicicleta de montanha econômica da nHill tem um bom desempenho tanto em ciclovias quanto em trilhas. O garfo com 100mm de curso absorve terrenos acidentados. Pneus largos Kenda Booster oferecem aderência em curvas e trilhas molhadas. A transmissão Shimano Tourney oferece engrenagens suficientes para encontrar um ritmo confortável para subir, e os freios a disco hidráulicos Tektro freiam suavemente. Se você quer uma bicicleta acessível que pode levar para o trabalho, mas também levar para trilhas nos fins de semana, ou está apenas atrás de uma pedalada estável e confortável na ciclovia, a Summit oferece um bom custo-benefício."
+  },
+  {
+    "model": "ThrillCycle",
+    "brand": "BikeShind",
+    "price": 815,
+    "type": "Bicicletas de Comutação",
+    "specs": {
+      "material": "liga",
+      "weight": "12.7"
+    },
+    "description": "Uma bicicleta artística, inspirada no estilo retrô, que é tão funcional quanto bonita: O quadro de aço da ThrillCycle oferece uma pedalada suave. Uma transmissão de 9 velocidades tem marchas suficientes para deslizar pela cidade, mas não sugerimos levá-la para as montanhas. Os para-lamas protegem contra lama, e uma cesta traseira permite transportar mantimentos, flores e livros. A ThrillCycle vem com uma garantia limitada vitalícia, então essa pequena durará muito além da formatura."
+  },
+  {
+    "model": "Flash 300",
+    "brand": "Caloi",
+    "price": 2100,
+    "type": "Bicicletas de Montanha",
+    "specs": {
+      "material": "carbono",
+      "weight": "10.5"
+    },
+    "description": "A Flash 300 da Caloi é uma bicicleta de montanha de alta performance, perfeita para os ciclistas que procuram velocidade e durabilidade. Com um quadro de carbono leve e componentes Shimano de alta qualidade, a Flash 300 oferece uma experiência de pedalada suave e eficiente. Ideal para trilhas técnicas e terrenos acidentados, esta bicicleta é equipada com suspensão dianteira de 100mm e freios a disco hidráulicos para garantir controle total em qualquer situação."
+  },
+  {
+    "model": "Eco Urban",
+    "brand": "Monark",
+    "price": 950,
+    "type": "Bicicletas de Comutação",
+    "specs": {
+      "material": "alumínio",
+      "weight": "12.2"
+    },
+    "description": "A Eco Urban da Monark é a bicicleta de comutação perfeita para quem deseja uma alternativa ecológica para o transporte diário. Com um quadro de alumínio leve e resistente, esta bicicleta é fácil de manobrar pelas ruas da cidade. Os freios a disco proporcionam uma frenagem segura, enquanto os pneus largos garantem uma pedalada confortável em diferentes superfícies."
+  },
+  {
+    "model": "Speedster 500",
+    "brand": "Shimano",
+    "price": 1800,
+    "type": "Bicicletas de Estrada",
+    "specs": {
+      "material": "fibra de carbono",
+      "weight": "8.5"
+    },
+    "description": "A Speedster 500 da Shimano é a escolha ideal para ciclistas que buscam velocidade e desempenho nas estradas. Com um quadro de fibra de carbono ultraleve e componentes Shimano Ultegra, esta bicicleta oferece mudanças de marcha suaves e precisas. Os freios a disco hidráulicos garantem paradas seguras, mesmo em altas velocidades. Perfeita para competições e treinos intensivos."
+  },
+  {
+    "model": "Urban Cruiser",
+    "brand": "Sense",
+    "price": 1200,
+    "type": "Bicicletas de Comutação",
+    "specs": {
+      "material": "alumínio",
+      "weight": "13.0"
+    },
+    "description": "A Urban Cruiser da Sense é uma bicicleta de comutação estilosa e prática, ideal para quem precisa se deslocar pela cidade com conforto e eficiência. O quadro de alumínio é durável e leve, enquanto o câmbio Shimano de 21 velocidades permite enfrentar subidas e descidas com facilidade. A bicicleta também conta com para-lamas e bagageiro traseiro, tornando-a perfeita para o uso diário."
+  },
+  {
+    "model": "Explorer 700",
+    "brand": "Soul Cycles",
+    "price": 2500,
+    "type": "Bicicletas de Montanha",
+    "specs": {
+      "material": "carbono",
+      "weight": "10.2"
+    },
+    "description": "A Explorer 700 da Soul Cycles é uma bicicleta de montanha premium, projetada para ciclistas que exigem o máximo desempenho em trilhas desafiadoras. Com um quadro de carbono leve e resistente, suspensão dianteira Fox de 120mm e transmissão Shimano XT de 12 velocidades, a Explorer 700 oferece uma experiência de pedalada excepcional. Os freios a disco hidráulicos garantem uma frenagem confiável em qualquer terreno."
+  },
+  {
+    "model": "Mountain Thunder",
+    "brand": "Trek",
+    "price": 2500,
+    "type": "Bicicletas de Montanha",
+    "specs": {
+      "material": "carbono",
+      "weight": "9.8"
+    },
+    "description": "A Mountain Thunder da Trek é uma bicicleta de montanha robusta e leve, ideal para ciclistas que adoram trilhas desafiadoras. Com suspensão dianteira de 120mm e componentes Shimano XT, esta bicicleta proporciona uma experiência de pedalada suave e controlada em qualquer terreno."
+  },
+  {
+    "model": "City Glide",
+    "brand": "Caloi",
+    "price": 850,
+    "type": "Bicicletas de Comutação",
+    "specs": {
+      "material": "alumínio",
+      "weight": "12.5"
+    },
+    "description": "A City Glide da Caloi é perfeita para quem precisa se deslocar pela cidade com praticidade e conforto. Com um quadro de alumínio leve e pneus largos, esta bicicleta garante uma pedalada estável e segura em ruas pavimentadas e ciclovias."
+  },
+  {
+    "model": "Trail Blazer",
+    "brand": "Specialized",
+    "price": 3200,
+    "type": "Bicicletas de Montanha",
+    "specs": {
+      "material": "carbono",
+      "weight": "10.2"
+    },
+    "description": "A Trail Blazer da Specialized é uma bicicleta de montanha de alta performance, ideal para trilhas técnicas e terrenos acidentados. Com um quadro de carbono e componentes SRAM GX Eagle, esta bicicleta oferece durabilidade e desempenho excepcionais."
+  },
+  {
+    "model": "Urban Commute",
+    "brand": "Monark",
+    "price": 900,
+    "type": "Bicicletas de Comutação",
+    "specs": {
+      "material": "alumínio",
+      "weight": "11.8"
+    },
+    "description": "A Urban Commute da Monark é a escolha ideal para quem precisa de uma bicicleta confiável para o dia a dia. Com um quadro de alumínio resistente e componentes Shimano, esta bicicleta oferece uma pedalada suave e confortável em qualquer condição urbana."
+  },
+  {
+    "model": "Speed Racer",
+    "brand": "Giant",
+    "price": 2800,
+    "type": "Bicicletas de Estrada",
+    "specs": {
+      "material": "carbono",
+      "weight": "8.0"
+    },
+    "description": "A Speed Racer da Giant é uma bicicleta de estrada projetada para velocidade e desempenho. Com um quadro de carbono ultraleve e componentes Shimano Ultegra, esta bicicleta oferece uma experiência de pedalada rápida e eficiente."
+  },
+  {
+    "model": "Explorer Elite",
+    "brand": "Sense",
+    "price": 2600,
+    "type": "Bicicletas de Montanha",
+    "specs": {
+      "material": "carbono",
+      "weight": "10.1"
+    },
+    "description": "A Explorer Elite da Sense é uma bicicleta de montanha premium, perfeita para trilhas desafiadoras e terrenos acidentados. Com suspensão dianteira de 130mm e componentes Shimano XT, esta bicicleta oferece uma pedalada suave e controlada."
+  },
+  {
+    "model": "Adventure Pro",
+    "brand": "Caloi",
+    "price": 2300,
+    "type": "Bicicletas de Montanha",
+    "specs": {
+      "material": "carbono",
+      "weight": "9.5"
+    },
+    "description": "A Adventure Pro da Caloi é uma bicicleta de montanha projetada para ciclistas que buscam aventura e desempenho. Com um quadro de carbono e suspensão dianteira de 120mm, esta bicicleta oferece uma experiência de pedalada emocionante em qualquer terreno."
+  },
+  {
+    "model": "City Cruiser",
+    "brand": "Monark",
+    "price": 1000,
+    "type": "Bicicletas de Comutação",
+    "specs": {
+      "material": "alumínio",
+      "weight": "12.0"
+    },
+    "description": "A City Cruiser da Monark é ideal para deslocamentos urbanos, oferecendo conforto e praticidade. Com um quadro de alumínio leve e pneus largos, esta bicicleta garante uma pedalada estável e segura em ruas pavimentadas e ciclovias."
+  },
+  {
+    "model": "Road Master",
+    "brand": "Specialized",
+    "price": 2900,
+    "type": "Bicicletas de Estrada",
+    "specs": {
+      "material": "carbono",
+      "weight": "7.8"
+    },
+    "description": "A Road Master da Specialized é uma bicicleta de estrada de alta performance, projetada para ciclistas que buscam velocidade e eficiência. Com um quadro de carbono ultraleve e componentes Shimano Dura-Ace, esta bicicleta oferece uma experiência de pedalada rápida e responsiva."
+  },
+  {
+    "model": "Mountain King",
+    "brand": "Giant",
+    "price": 3400,
+    "type": "Bicicletas de Montanha",
+    "specs": {
+      "material": "carbono",
+      "weight": "10.0"
+    },
+    "description": "A Mountain King da Giant é uma bicicleta de montanha topo de linha, ideal para ciclistas que exigem o melhor em desempenho e durabilidade. Com um quadro de carbono e componentes SRAM XX1 Eagle, esta bicicleta oferece uma pedalada suave e controlada em qualquer terreno."
+  },
+  {
+    "model": "Race Pro",
+    "brand": "Giant",
+    "price": 3500,
+    "type": "Bicicletas de Competição",
+    "specs": {
+      "material": "carbono",
+      "weight": "7.5"
+    },
+    "description": "A Race Pro da Giant é uma bicicleta de competição de alto desempenho, projetada para velocidade e eficiência. Com um quadro de carbono ultraleve e componentes Shimano Dura-Ace, esta bicicleta oferece uma experiência de pedalada rápida e responsiva, ideal para competições de alto nível."
+  },
+  {
+    "model": "Speed Master",
+    "brand": "Specialized",
+    "price": 3200,
+    "type": "Bicicletas de Competição",
+    "specs": {
+      "material": "carbono",
+      "weight": "7.8"
+    },
+    "description": "A Speed Master da Specialized é uma bicicleta de estrada voltada para competições, com um quadro de carbono e componentes SRAM Red. Oferece uma pedalada suave e aerodinâmica, ideal para ciclistas que buscam a vitória em provas de velocidade."
+  },
+  {
+    "model": "XC Elite",
+    "brand": "Caloi",
+    "price": 2800,
+    "type": "Bicicletas de Competição",
+    "specs": {
+      "material": "carbono",
+      "weight": "9.2"
+    },
+    "description": "A XC Elite da Caloi é uma bicicleta de competição de mountain bike, ideal para trilhas técnicas e competições cross-country. Com um quadro de carbono leve e componentes Shimano XTR, esta bicicleta proporciona uma pedalada eficiente e controlada."
+  },
+  {
+    "model": "Track Racer",
+    "brand": "Trek",
+    "price": 3300,
+    "type": "Bicicletas de Competição",
+    "specs": {
+      "material": "carbono",
+      "weight": "7.6"
+    },
+    "description": "A Track Racer da Trek é uma bicicleta de pista projetada para competições de velódromo. Com um quadro de carbono ultraleve e geometria agressiva, esta bicicleta oferece aceleração rápida e excelente controle nas curvas."
+  },
+  {
+    "model": "Marathon Pro",
+    "brand": "Scott",
+    "price": 3100,
+    "type": "Bicicletas de Competição",
+    "specs": {
+      "material": "carbono",
+      "weight": "8.4"
+    },
+    "description": "A Marathon Pro da Scott é uma bicicleta de competição projetada para longas distâncias e maratonas. Com um quadro de carbono leve e componentes Shimano Ultegra, esta bicicleta proporciona conforto e eficiência em provas de resistência."
+  },
+  {
+    "model": "Cargo King",
+    "brand": "Yuba",
+    "price": 1600,
+    "type": "Bicicletas de Trabalho",
+    "specs": {
+      "material": "aço",
+      "weight": "25"
+    },
+    "description": "A Cargo King da Yuba é uma bicicleta de carga robusta, ideal para transportar grandes volumes e pesos. Com um quadro de aço resistente e plataforma traseira ampla, esta bicicleta é perfeita para entregas e transporte de mercadorias."
+  },
+  {
+    "model": "Utility Pro",
+    "brand": "Monark",
+    "price": 1200,
+    "type": "Bicicletas de Trabalho",
+    "specs": {
+      "material": "alumínio",
+      "weight": "22"
+    },
+    "description": "A Utility Pro da Monark é uma bicicleta de trabalho versátil, ideal para entregas urbanas. Com um quadro de alumínio resistente e cestos frontais e traseiros, esta bicicleta é perfeita para transportar encomendas e mercadorias com facilidade."
+  },
+  {
+    "model": "Water Carrier",
+    "brand": "Caloi",
+    "price": 900,
+    "type": "Bicicletas de Trabalho",
+    "specs": {
+      "material": "aço",
+      "weight": "23"
+    },
+    "description": "A Water Carrier da Caloi é uma bicicleta de trabalho projetada para o transporte de água e outras cargas pesadas. Com suporte para galões de água e quadro reforçado, esta bicicleta é ideal para áreas rurais e serviços de entrega."
+  },
+  {
+    "model": "Delivery Master",
+    "brand": "Trek",
+    "price": 1400,
+    "type": "Bicicletas de Trabalho",
+    "specs": {
+      "material": "alumínio",
+      "weight": "20"
+    },
+    "description": "A Delivery Master da Trek é uma bicicleta de trabalho eficiente, projetada para entregas rápidas na cidade. Com um quadro de alumínio leve e resistente e espaço de carga amplo, esta bicicleta facilita o transporte de encomendas e pacotes."
+  },
+  {
+    "model": "Heavy Duty",
+    "brand": "Specialized",
+    "price": 1800,
+    "type": "Bicicletas de Trabalho",
+    "specs": {
+      "material": "aço",
+      "weight": "26"
+    },
+    "description": "A Heavy Duty da Specialized é uma bicicleta de trabalho de alta capacidade, ideal para transportar cargas pesadas e volumosas. Com um quadro de aço robusto e componentes de alta resistência, esta bicicleta é perfeita para tarefas exigentes de transporte."
+  }
 ]
